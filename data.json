@@ -2,7 +2,7 @@
     {
       "id": 1,
       
-      "imagen": "http://localhost:3000/images/image-1.jpg",
+      "imagen": "http://localhost:3000/api/data/images/image-1.jpg",
       
       "marca": "Asus",
       "modelo": "GetFoce Gtx 1080 8 Gb",
