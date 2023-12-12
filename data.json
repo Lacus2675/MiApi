@@ -2,7 +2,7 @@
     {
       "id": 1,
       
-      "imagen": "http://localhost:3000/api/data/images/image-1.jpg",
+      "imagen": "https://miapi-bpci.onrender.com/images/image-1.jpg",
       
       "marca": "Asus",
       "modelo": "GetFoce Gtx 1080 8 Gb",
