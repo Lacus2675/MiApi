@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "imagen": "http://localhost:3000/images/rx6600xt.jpg",
+      "imagen": "https://miapi-bpci.onrender.com/images/rx6600xt.jpg",
       "marca": "PowerColor",
       "modelo": "RedDevil Rx 6600 Xt",
       "precio": 110000
@@ -18,7 +18,7 @@
     
     {
       "id": 3,
-      "imagen": "http://localhost:3000/images/rx6900.jpg",
+      "imagen": "https://miapi-bpci.onrender.com/images/rx6900.jpg",
       "marca": "PowerColor",
       "modelo": "Rx 6900 zr 16 Gb",
       "precio": 280000
@@ -26,14 +26,14 @@
 
     {
       "id": 4,
-      "imagen": "http://localhost:3000/images/Rx6800.jpg",
+      "imagen": "https://miapi-bpci.onrender.com/images/Rx6800.jpg",
       "marca": "PowerColor",
       "modelo": "Rx 6800 Fighter 16Gb",
       "precio": 240000
     },
     {
       "id": 5,
-      "imagen": "http://localhost:3000/images/image-2.jpg",
+      "imagen": "https://miapi-bpci.onrender.com/images/image-2.jpg",
       "marca": "Asus",
       "modelo": "Rtx 3070 8 Gb",
       "precio": 180000
@@ -41,7 +41,7 @@
     
     {
       "id": 6,
-      "imagen": "http://localhost:3000/images/image-3.jpg",
+      "imagen": "https://miapi-bpci.onrender.com/images/image-3.jpg",
       "marca": "Asus",
       "modelo": "Rtx Dual 3060 Ti 8 Gb",
       "precio": 110000
